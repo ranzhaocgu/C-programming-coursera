@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bubbleSorting", "bubbleSorting\bubbleSorting.vcxproj", "{38F5ED92-1A7E-413A-814E-4577FE714D96}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oddEvenSorting", "oddEvenSorting\oddEvenSorting.vcxproj", "{E2C0E036-BBF7-4B00-A932-B7548979A077}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oddEvenSorting2", "oddEvenSorting2\oddEvenSorting2.vcxproj", "{583059E1-E961-487F-8EDD-EE132E92DCC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F5ED92-1A7E-413A-814E-4577FE714D96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38F5ED92-1A7E-413A-814E-4577FE714D96}.Debug|Win32.Build.0 = Debug|Win32
+		{38F5ED92-1A7E-413A-814E-4577FE714D96}.Release|Win32.ActiveCfg = Release|Win32
+		{38F5ED92-1A7E-413A-814E-4577FE714D96}.Release|Win32.Build.0 = Release|Win32
+		{E2C0E036-BBF7-4B00-A932-B7548979A077}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2C0E036-BBF7-4B00-A932-B7548979A077}.Debug|Win32.Build.0 = Debug|Win32
+		{E2C0E036-BBF7-4B00-A932-B7548979A077}.Release|Win32.ActiveCfg = Release|Win32
+		{E2C0E036-BBF7-4B00-A932-B7548979A077}.Release|Win32.Build.0 = Release|Win32
+		{583059E1-E961-487F-8EDD-EE132E92DCC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{583059E1-E961-487F-8EDD-EE132E92DCC5}.Debug|Win32.Build.0 = Debug|Win32
+		{583059E1-E961-487F-8EDD-EE132E92DCC5}.Release|Win32.ActiveCfg = Release|Win32
+		{583059E1-E961-487F-8EDD-EE132E92DCC5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

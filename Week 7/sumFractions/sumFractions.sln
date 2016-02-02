@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sumFractions", "sumFractions\sumFractions.vcxproj", "{FDBC3E0B-AF89-48A8-B305-E1FD2FBD8A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBC3E0B-AF89-48A8-B305-E1FD2FBD8A85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FDBC3E0B-AF89-48A8-B305-E1FD2FBD8A85}.Debug|Win32.Build.0 = Debug|Win32
+		{FDBC3E0B-AF89-48A8-B305-E1FD2FBD8A85}.Release|Win32.ActiveCfg = Release|Win32
+		{FDBC3E0B-AF89-48A8-B305-E1FD2FBD8A85}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
