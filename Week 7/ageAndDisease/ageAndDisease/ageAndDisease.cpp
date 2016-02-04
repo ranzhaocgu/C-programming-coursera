@@ -21,7 +21,7 @@ int main()
 			cato1++;
 		} else if (data[i] < 35){
 			cato2++;
-		} else if (data[i] < 60){
+		} else if (data[i] <= 60){
 			cato3++;
 		} else {
 			cato4++;
