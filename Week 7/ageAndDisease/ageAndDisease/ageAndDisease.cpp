@@ -17,9 +17,9 @@ int main()
 	for (int i=0;i<n;i++){
 		cin >> data[i];
 
-		if (data[i] < 18){
+		if (data[i] <= 18){
 			cato1++;
-		} else if (data[i] < 35){
+		} else if (data[i] <= 35){
 			cato2++;
 		} else if (data[i] <= 60){
 			cato3++;
