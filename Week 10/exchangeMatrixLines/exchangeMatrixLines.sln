@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exchangeMatrixLines", "exchangeMatrixLines\exchangeMatrixLines.vcxproj", "{98F614B1-E677-4499-83FE-248E15C3E7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F614B1-E677-4499-83FE-248E15C3E7AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98F614B1-E677-4499-83FE-248E15C3E7AB}.Debug|Win32.Build.0 = Debug|Win32
+		{98F614B1-E677-4499-83FE-248E15C3E7AB}.Release|Win32.ActiveCfg = Release|Win32
+		{98F614B1-E677-4499-83FE-248E15C3E7AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
